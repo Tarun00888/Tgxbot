@@ -15,7 +15,7 @@ from telegram.ext import (
 )
 
 # ========== CONFIG ==========
-BOT_TOKEN = "7339654160:AAG7gdROmpBR8xX_GyFOSw9jOK1Zp6QKBKI"
+BOT_TOKEN = "7339654160:AAHxkJxabcZxx8LM3ibBeGMn61D1bsu97_o"
 ADMIN_ID = 5335667019
 QR_IMAGE_URL = "https://ibb.co/rfz2VV93"
 API_URL = "https://worldofsmm.com/api/v2"
